@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Extreme Programming (XP)
 - 👯 I’m looking to collaborate on Open Source Software projects
 - ⚙️ I love to code in **Python**, **C#**, **PHP**
-- 📫 How to reach me:
-  - [http://linkedin.com/in/stepasquini](http://linkedin.com/in/stepasquini)
-  - [https://twitter.com/stefoxp](https://twitter.com/stefoxp)
+
+## 📫 How to reach me
+
+- Linkedin -> [http://linkedin.com/in/stepasquini](http://linkedin.com/in/stepasquini)
+- Twitter -> [https://twitter.com/stefoxp](https://twitter.com/stefoxp)
