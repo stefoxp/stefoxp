@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working as a Software Developer and Database Administrator at [ERDIS Marche](https://erdis.it/)
-- 🌱 I’m currently learning Extreme Programming (XP)
+- 🌱 I’m currently learning [Agile Software Development](https://agilemanifesto.org/)
 - 👯 I’m looking to collaborate on Open Source Software projects
 - ⚙️ I love to code in **Python**, **C#**, **PHP**
 
