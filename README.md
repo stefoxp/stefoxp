@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as a IT specialist at [ERDIS Marche](https://erdis.it/)
+- 🔭 I’m currently working as a Software Developer and Database Administrator at [ERDIS Marche](https://erdis.it/)
 - 🌱 I’m currently learning Extreme Programming (XP)
 - 👯 I’m looking to collaborate on Open Source Software projects
 - ⚙️ I love to code in **Python**, **C#**, **PHP**
