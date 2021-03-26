@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 - Twitter -> [https://twitter.com/stefoxp](https://twitter.com/stefoxp)
 
 ---
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stefoxp&hide=html&layout=compact&show_icons=true&theme=gruvbox)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stefoxp&show_icons=true&theme=gruvbox)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stefoxp&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stefoxp&layout=compact&show_icons=true&theme=gruvbox&exclude_repo=head-first-design-patterns,growing-object-oriented-software,knowledge,patchwork)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
