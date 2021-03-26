@@ -20,3 +20,10 @@ Here are some ideas to get you started:
 
 - Linkedin -> [http://linkedin.com/in/stepasquini](http://linkedin.com/in/stepasquini)
 - Twitter -> [https://twitter.com/stefoxp](https://twitter.com/stefoxp)
+
+---
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stefoxp&hide=html&layout=compact&show_icons=true&theme=gruvbox)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stefoxp&show_icons=true&theme=gruvbox)
+
+---
